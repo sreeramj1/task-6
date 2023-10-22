@@ -112,8 +112,8 @@ function App() {
         </div>
         <ul className='contact'>
           <li className='details'>Phone Number: -7901005830</li>
-          <li className='details'>Gmail: -gurusai62003@gmail.com</li>
-          <li className='details'>Address: -Kurnool, Andhra Pradesh, India, 518004</li>
+          <li className='details'>Gmail: -frenzywallflower@gmail.com</li>
+          <li className='details'>Address: -Kurnool, Andhra Pradesh, India, 518002</li>
         </ul>
       </div>
     </>
