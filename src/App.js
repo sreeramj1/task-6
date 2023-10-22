@@ -52,7 +52,7 @@ function App() {
                 <div className="card-body">
                   <h5 className="card-title">Web developer</h5>
                   <p className="card-text">HTML, CSS, JavaScript, PHP<br></br>
-• Database: MySQL<br></br>
+• Database: MySQL, red shift, mongo-db<br></br>
 • Data science: Standard ML algorithms <br></br>
 (regression, classification, clustering) <br></br>
 • Data Analysis: R,NumPy, Pandas,Matplotlib</p>
@@ -88,10 +88,10 @@ function App() {
               <div className='container' id='projects-details'>
                 <div className='col'>
                   <ul>
-                    <li className='mt-3'><h4>Detecting flying objects</h4></li>
-                    <p className='lead'>Data Preprocessing | VGG19 | LeNet | Image Classification<br></br>
+                    <li className='mt-3'><h4>Detecting hand signs</h4></li>
+                    <p className='lead'>Data Preprocessing | VGG19|ALEC NET | PYTOTCH| KERAS | Image Classification<br></br>
                       Created a deep learning model essential to recognise hand gestures using pytorch with keras.</p>
-                    <li className='mt-3'><h4>Conditional Predictive Maintenance of vehicles from Electrical and Mechanical faults.</h4></li>
+                    <li className='mt-3'><h4>pREDICTING WEATHER PATTERNS BASED ON CONDITIONAL PROBABILITIES</h4></li>
                     <p className='lead'> Machine Learning Algorithms<br></br>
                      Used best practices to optmise machine learning algorithms.</p>
                     <li className='mt-3'><h4>Automatic waste segregation module</h4></li>
