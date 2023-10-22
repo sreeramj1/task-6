@@ -30,7 +30,7 @@ function App() {
             <div className='row mt-5'>
               <div className='col-lg-6'>
                 <div className='banner-title'>
-                  <h1 className='title'>Guru SaiNath</h1>
+                  <h1 className='title'>Sreeramjvp</h1>
                   <p className='lead'>I'm a passionate learner and creative thinker, dedicated to growth, knowledge, and positive impact in a dynamic world.</p>
                 </div>
               </div>
