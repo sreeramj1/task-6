@@ -31,7 +31,7 @@ function App() {
               <div className='col-lg-6'>
                 <div className='banner-title'>
                   <h1 className='title'>Sreeramjvp</h1>
-                  <p className='lead'>I'm a passionate learner and creative thinker, dedicated to growth, knowledge, and positive impact in a dynamic world.</p>
+                  <p className='lead'>I'm a learning developer driven by curiosity and a passion for technology, constantly exploring and innovating in the ever-evolving world of coding.</p>
                 </div>
               </div>
               <div className='col-lg-6' id='img'>
@@ -63,8 +63,8 @@ function App() {
               <div className="card" >
                 <img src={imageUrl3} alt="java" className="img-fluid" id='java' />
                 <div className="card-body">
-                  <h5 className="card-title">Java</h5>
-                  <p className="card-text">Java is a high-level, class-based, object-oriented programming langugae that is designed to have as few implementation dependencies as possible<br></br>Proficient in problem solving skills and DSA</p>
+                  <h5 className="card-title">Python</h5>
+                  <p className="card-text">Python is a high-level, interpreted programming language known for its simplicity and readability. It was created by Guido van Rossum and first released in 1991. <br></br>Docker and linux</p>
                 </div>
               </div>
             </div>
@@ -90,15 +90,13 @@ function App() {
                   <ul>
                     <li className='mt-3'><h4>Detecting flying objects</h4></li>
                     <p className='lead'>Data Preprocessing | VGG19 | LeNet | Image Classification<br></br>
-                      Developed a model with a three-person team that will categorise flying objects using CNN architectures.</p>
+                      Created a deep learning model essential to recognise hand gestures using pytorch with keras.</p>
                     <li className='mt-3'><h4>Conditional Predictive Maintenance of vehicles from Electrical and Mechanical faults.</h4></li>
-                    <p className='lead'>Random Forest | Logistic Regression | Other Machine Learning Algorithms<br></br>
-                      By using different Machine learning algorithms analysed and optimised the working of the algorithms and
-                      with best algorithm prepared the best model with good accuracy.</p>
-                    <li className='mt-3'><h4>Smart Door Lock with Facial Recognition and Thermal Screening</h4></li>
+                    <p className='lead'> Machine Learning Algorithms<br></br>
+                     Used best practices to optmise machine learning algorithms.</p>
+                    <li className='mt-3'><h4>Automatic waste segregation module</h4></li>
                     <p className='lead'>Arduino UNO | ESP32 | Face Recognition<br></br>
-                      Created a smart door lock system with facial recognition and Thermal Screening using Arduino UNO which
-                      helps to detect the face, temperature of a person and open the door lock.</p>
+                     Made a custom helmet that only lets you start a bike when worn.</p>
                   </ul>
                 </div>
               </div>
@@ -111,7 +109,7 @@ function App() {
           <h2 className='contact-head text-dark'>Contact-Us</h2>
         </div>
         <ul className='contact'>
-          <li className='details'>Phone Number: -7901005830</li>
+          <li className='details'>Phone Number: -xxxxxxxxxxx</li>
           <li className='details'>Gmail: -frenzywallflower@gmail.com</li>
           <li className='details'>Address: -Kurnool, Andhra Pradesh, India, 518002</li>
         </ul>
